@@ -1,16 +1,37 @@
-## Hi there 👋
+![Banner](./banner.jpg)
 
-<!--
-**dr3mro/dr3mro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Amr
 
-Here are some ideas to get you started:
+CS @ SNHU · Backend & Systems Engineering · C++20 · Java · TypeScript · Python  
+Brooklyn, NY · [LinkedIn](https://linkedin.com/in/dr3mro) · amr.osman@snhu.edu
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## What I'm Building
+
+Backend and systems software — REST APIs, desktop applications, OS-level projects.  
+Six years of IT and cybersecurity work means authentication, access control, and reliability
+are designed in from the start, not bolted on.
+
+| Project | Stack | What it does |
+|---|---|---|
+| [Valhalla-server](https://github.com/dr3mro/Valhalla-server) | C++20 · Drogon · PostgreSQL · Docker | Multi-tenant healthcare REST backend — 29 endpoints, JWT, bitmask RBAC, CI |
+| [SmartClinic](https://github.com/dr3mro/SmartClinic) | C++ · Qt · SQLite | Cross-platform EMR desktop app with multi-specialty record workflows |
+| [JSmartClinic](https://github.com/dr3mro/JSmartClinic) | Java · JavaFX | Java reimplementation of SmartClinic |
+| [mountain](https://github.com/dr3mro/mountain) | C++ · Qt · SSHFS | macOS menu-bar app for mounting/managing remote SSH storage |
+| [JavaSpringBootApi](https://github.com/dr3mro/JavaSpringBootApi) | Java · Spring Boot · MySQL | Product-management REST CRUD API with layered architecture |
+| [realtime_scheduler](https://github.com/dr3mro/realtime_scheduler) | Python · C | Real-time scheduling algorithms + memory management simulator |
+
+---
+
+## Tech Stack
+
+**Languages:** C++20 · Java · TypeScript · Python · C · SQL · Bash  
+**Backend:** Drogon · Spring Boot · PostgreSQL · MySQL · REST API design  
+**Desktop:** Qt · JavaFX  
+**Tooling:** CMake · Conan · Docker · GitHub Actions CI · Catch2 · clang-tidy  
+**Security:** JWT · RBAC · libsodium · input validation · rate limiting  
+
+---
+
+*B.S. Computer Science @ SNHU (expected Oct 2027) · Seeking software engineering internships.*
