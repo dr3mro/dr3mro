@@ -6,14 +6,6 @@
   </a>
 </p>
 
-```bash
-$ whoami
-Amr Osman · Software Engineer - Southern New Hampshire University
-
-$ uptime
-6 years
-```
-
 # Hi, I'm Amr ![Views](https://komarev.com/ghpvc/?username=dr3mro&color=blueviolet&style=flat-square)
 
 CS @ SNHU · Backend & Systems Engineering · C++ · Java · Python  
