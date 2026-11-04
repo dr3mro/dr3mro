@@ -10,6 +10,7 @@
 
 CS @ SNHU · Backend & Systems Engineering · C++ · Java · Python  
 Brooklyn, NY · [LinkedIn](https://linkedin.com/in/dr3mro) · amr.osman@snhu.edu
+![Views](https://komarev.com/ghpvc/?username=dr3mro&color=blueviolet&style=flat-square)
 
 ---
 ### Tech Stack
