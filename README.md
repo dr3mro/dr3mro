@@ -12,11 +12,17 @@ CS @ SNHU · Backend & Systems Engineering · C++ · Java · Python
 Brooklyn, NY · [LinkedIn](https://linkedin.com/in/dr3mro) · amr.osman@snhu.edu
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=dr3mro&theme=onedark&column=4&margin-w=15&margin-h=15&no-bg=true" alt="Trophies" />
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dr3mro&theme=radial" alt="3D Stats" />
 </p>
 
+<p align="center">
+  <a href="https://linkedin.com/in/dr3mro">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:amr.osman@snhu.edu">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 ---
 ### Tech Stack
 
