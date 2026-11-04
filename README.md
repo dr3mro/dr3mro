@@ -11,6 +11,12 @@
 CS @ SNHU · Backend & Systems Engineering · C++ · Java · Python  
 Brooklyn, NY · [LinkedIn](https://linkedin.com/in/dr3mro) · amr.osman@snhu.edu
 
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=dr3mro&theme=onedark&column=4&margin-w=15&margin-h=15&no-bg=true" alt="Trophies" />
+  </a>
+</p>
+
 ---
 ### Tech Stack
 
