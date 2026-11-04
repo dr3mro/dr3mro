@@ -26,7 +26,7 @@ are designed in from the start, not bolted on.
 
 ## Tech Stack
 
-**Languages:** C++20 · Java · TypeScript · Python · C · SQL · Bash  
+**Languages:** C++20 · Java · Python · C · SQL · Bash  
 **Backend:** Drogon · Spring Boot · PostgreSQL · MySQL · REST API design  
 **Desktop:** Qt · JavaFX  
 **Tooling:** CMake · Conan · Docker · GitHub Actions CI · Catch2 · clang-tidy  
