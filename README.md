@@ -1,4 +1,4 @@
-![Banner](./banner.jpg)
+![Banner](./header.jpeg)
 
 # Hi, I'm Amr
 
