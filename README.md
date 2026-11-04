@@ -35,11 +35,11 @@ Backend and systems software — REST APIs, desktop applications, OS-level proje
 Six years of IT and cybersecurity work means authentication, access control, and reliability
 are designed in from the start, not bolted on.
 
----
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/dr3mro/dr3mro/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p> 
----
+
 
 
 | Project | Stack | What it does |
