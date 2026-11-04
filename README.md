@@ -6,6 +6,13 @@
   </a>
 </p>
 
+```bash
+$ whoami
+Amr Osman · Backend & Systems Engineer · CS @ SNHU
+
+$ uptime
+6 years in IT & Cybersecurity -> building rock-solid C++ & Java architectures
+
 # Hi, I'm Amr ![Views](https://komarev.com/ghpvc/?username=dr3mro&color=blueviolet&style=flat-square)
 
 CS @ SNHU · Backend & Systems Engineering · C++ · Java · Python  
