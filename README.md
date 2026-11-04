@@ -2,7 +2,7 @@
 
 # Hi, I'm Amr
 
-CS @ SNHU · Backend & Systems Engineering · C++20 · Java · TypeScript · Python  
+CS @ SNHU · Backend & Systems Engineering · C++ · Java · Python  
 Brooklyn, NY · [LinkedIn](https://linkedin.com/in/dr3mro) · amr.osman@snhu.edu
 
 ---
