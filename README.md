@@ -19,7 +19,7 @@ are designed in from the start, not bolted on.
 | [SmartClinic](https://github.com/dr3mro/SmartClinic) | C++ · Qt · SQLite | Cross-platform EMR desktop app with multi-specialty record workflows |
 | [JSmartClinic](https://github.com/dr3mro/JSmartClinic) | Java · JavaFX | Java reimplementation of SmartClinic |
 | [mountain](https://github.com/dr3mro/mountain) | C++ · Qt · SSHFS | macOS menu-bar app for mounting/managing remote SSH storage |
-| [JavaSpringBootApi](https://github.com/dr3mro/JavaSpringBootApi) | Java · Spring Boot · MySQL | Product-management REST CRUD API with layered architecture |
+| [JavaSpring](https://github.com/dr3mro/JavaSpringBootApi) | Java · Spring · MySQL | Product-management REST CRUD API with layered architecture |
 | [realtime_scheduler](https://github.com/dr3mro/realtime_scheduler) | Python · C | Real-time scheduling algorithms + memory management simulator |
 
 ---
