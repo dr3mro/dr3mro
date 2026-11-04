@@ -38,7 +38,7 @@ are designed in from the start, not bolted on.
 ---
 <p align="center">
   <img src="https://raw.githubusercontent.com/dr3mro/dr3mro/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
+</p> 
 ---
 
 
