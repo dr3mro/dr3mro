@@ -55,5 +55,14 @@ are designed in from the start, not bolted on.
 **Security:** JWT · RBAC · libsodium · input validation · rate limiting  
 
 ---
+<details>
+<summary><b>🎓 Certifications & Professional Credentials</b></summary>
+<br />
+
+- **ISC² Certified in Cybersecurity (CC)**
+- **CompTIA CySA+** (Cybersecurity Analyst)
+- **CompTIA Security+**
+- **Splunk > Core Certified Power User**
+</details>
 
 *B.S. Computer Science @ SNHU (expected Oct 2027) · Seeking software engineering internships.*
