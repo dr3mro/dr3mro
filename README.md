@@ -8,10 +8,10 @@
 
 ```bash
 $ whoami
-Amr Osman · Backend & Systems Engineer · CS @ SNHU
+Amr Osman · Software Engineer - Southern New Hampshire University
 
 $ uptime
-6 years in IT & Cybersecurity -> building rock-solid C++ & Java architectures
+6 years
 ```
 
 # Hi, I'm Amr ![Views](https://komarev.com/ghpvc/?username=dr3mro&color=blueviolet&style=flat-square)
