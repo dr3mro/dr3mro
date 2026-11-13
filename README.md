@@ -61,7 +61,7 @@ are designed in from the start, not bolted on.
 
 | Project | Stack | What it does |
 |---|---|---|
-| [Valhalla-server](https://github.com/dr3mro/Valhalla-server) | C++20 · Drogon · PostgreSQL · Docker | Multi-tenant healthcare REST backend — 29 endpoints, JWT, bitmask RBAC, CI |
+| [Valhalla-server](https://github.com/dr3mro/Valhalla-server) | C++20 · Drogon · PostgreSQL · Docker | Multi-tenant healthcare REST backend — 89 endpoints, JWT, bitmask RBAC, CI |
 | [SmartClinic](https://github.com/dr3mro/SmartClinic) | C++ · Qt · SQLite | Cross-platform EMR desktop app with multi-specialty record workflows |
 | [image-describe](https://github.com/dr3mro/image-describe) | Java · JavaFX · ONNX Runtime | A small desktop app that looks at a photo and writes a one-sentence description of it — using a real AI image-captioning model, running 100% locally on your machine. No API keys, no cloud services: after the first run, it works completely offline. |
 | [JSmartClinic](https://github.com/dr3mro/JSmartClinic) | Java · JavaFX | Java reimplementation of SmartClinic |
